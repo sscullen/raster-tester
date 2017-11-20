@@ -1,0 +1,32 @@
+.header {
+    background: $offblack;
+    color: white;
+    margin-bottom: $xl-size;
+    padding: $m-size 0;
+
+}
+
+// use m-size for small screens and xl-size for larkge screens
+
+@media (max-width: $mobile-breakpoint) {
+    .header {
+        margin-bottom: $m-size;
+    }
+}
+
+// .header h1 {
+//     color: red;
+// }
+
+// BEM block element modifier
+.header__title {
+    font-size: $l-size;
+    margin: 0;
+}
+
+.header__subtitle {
+    color: $offwhite;
+    font-size: $m-size;
+    font-weight: 500;
+    margin: 0;
+}
