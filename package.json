@@ -9,6 +9,7 @@
     "dev-server": "webpack-dev-server"
   },
   "dependencies": {
+    "@mapbox/mapbox-gl-draw": "^1.0.4",
     "babel-cli": "6.24.1",
     "babel-core": "6.25.0",
     "babel-loader": "7.1.1",
@@ -18,10 +19,13 @@
     "css-loader": "^0.28.7",
     "cssloader": "^1.1.1",
     "live-server": "^1.2.0",
+    "mapbox-gl": "^0.42.1",
     "node-sass": "4.5.3",
     "normalize.css": "7.0.0",
     "react": "16.0.0",
     "react-dom": "16.0.0",
+    "react-mapbox-gl": "^2.8.0",
+    "react-mapbox-gl-draw": "^1.0.3",
     "react-modal": "2.2.2",
     "sass-loader": "6.0.6",
     "style-loader": "0.18.2",

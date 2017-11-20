@@ -27,6 +27,9 @@ module.exports = {
     devtool: 'cheap-module-eval-source-map', // useful for development
     devServer: {
         contentBase: path.resolve(__dirname, 'public')
+    },
+    node: {
+        fs: 'empty' // need to add this b/c problem with react-mapbox-draw
     }
 };
 
