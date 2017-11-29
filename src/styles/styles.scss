@@ -9,3 +9,28 @@
 
 @import '../../node_modules/mapbox-gl/dist/mapbox-gl.css';
 @import '../../node_modules/@mapbox/mapbox-gl-draw/dist/mapbox-gl-draw.css';
+
+@import '../../node_modules/leaflet/dist/leaflet.css';
+
+.leaflet-map {
+  width: 600px;
+  height: 600px;
+  background: red;
+}
+
+.main-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.mapContainer {
+  grid-column: span 1;
+}
+
+.controls {
+  grid-column: span 1;
+}
+
+h1 {
+  grid-column: span 2;
+}
