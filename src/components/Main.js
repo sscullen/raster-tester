@@ -11,7 +11,7 @@ const Map = ReactMapboxGl({
 mapboxgl.accessToken = 'pk.eyJ1Ijoic2N1bGxlbiIsImEiOiJ1UVAwZ19BIn0.wn4ltQcyl9P5j3bAmNJEPg'
 
 
-export default class BoilerPlate extends React.Component {
+export default class Main extends React.Component {
 
 
     static defaultProps = {

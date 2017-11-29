@@ -1,0 +1,218 @@
+Raw Image:
+
+Pan, zoomed out:
+
+Pan Avg Load Time: 886.75
+
+Pan Load Times:
+
+Pan 0: 869
+Pan 1: 891
+Pan 2: 892
+Pan 3: 895
+
+Pan Avg Load Time: 920
+
+Pan Load Times:
+
+Pan 0: 978
+Pan 1: 899
+Pan 2: 889
+Pan 3: 914
+
+Pan, zoomed mid:
+Pan Avg Load Time: 886.75
+
+Pan Load Times:
+
+Pan 0: 888
+Pan 1: 888
+Pan 2: 884
+Pan 3: 887
+
+Pan Avg Load Time: 901.75
+
+Pan Load Times:
+
+Pan 0: 905
+Pan 1: 900
+Pan 2: 909
+Pan 3: 893
+
+Pan, zoomed in:
+
+Pan Avg Load Time: 898.75
+
+Pan Load Times:
+
+Pan 0: 892
+Pan 1: 889
+Pan 2: 904
+Pan 3: 910
+
+Pan Avg Load Time: 890.25
+
+Pan Load Times:
+
+Pan 0: 892
+Pan 1: 889
+Pan 2: 890
+Pan 3: 890
+
+Zoom Avg Load Time: 899.8333333333334
+
+Zoom Load Times:
+
+Zoom 0: 862
+Zoom 1: 891
+Zoom 2: 882
+Zoom 3: 890
+Zoom 4: 930
+Zoom 5: 944
+
+Mipmapped, zoom out:
+
+Initial Load Time: 12659
+
+Pan Avg Load Time: 52.25
+
+Pan Load Times:
+
+Pan 0: 54
+Pan 1: 48
+Pan 2: 54
+Pan 3: 53
+
+Pan Avg Load Time: 55.5
+
+Pan 5
+
+Pan Load Times:
+
+Pan 0: 62
+Pan 1: 50
+Pan 2: 56
+Pan 3: 54
+
+Mipmapped, zoom mid:
+Pan Avg Load Time: 217.25
+
+Pan Load Times:
+
+Pan 0: 217
+Pan 1: 196
+Pan 2: 228
+Pan 3: 228
+
+Pan Avg Load Time: 223
+
+Pan Load Times:
+
+Pan 0: 227
+Pan 1: 203
+Pan 2: 235
+Pan 3: 227
+
+Mipmapped, zoom in:
+
+Pan Avg Load Time: 507.25
+
+Pan Load Times:
+
+Pan 0: 505
+Pan 1: 512
+Pan 2: 507
+Pan 3: 505
+
+Pan Avg Load Time: 509
+
+Pan Load Times:
+
+Pan 0: 508
+Pan 1: 512
+Pan 2: 509
+Pan 3: 507
+
+Mipmapped, zooming:
+Zoom Avg Load Time: 773.5
+
+Zoom Load Times:
+
+Zoom 0: 718
+Zoom 1: 1231
+Zoom 2: 671
+Zoom 3: 378
+Zoom 4: 672
+Zoom 5: 971
+
+Tiled, zoomed out:
+
+Pan Avg Load Time: 492.5
+
+Pan Load Times:
+
+Pan 0: 645
+Pan 1: 676
+Pan 2: 645
+Pan 3: 4
+
+Pan Avg Load Time: 8.75
+
+Pan Load Times:
+
+Pan 0: 9
+Pan 1: 9
+Pan 2: 7
+Pan 3: 10
+
+
+Tiled, zoomed mid:
+
+Pan Avg Load Time: 684
+
+Pan Load Times:
+
+Pan 0: 1110
+Pan 1: 841
+Pan 2: 775
+Pan 3: 10
+
+Pan Avg Load Time: 6.5
+
+Pan Load Times:
+
+Pan 0: 8
+Pan 1: 5
+Pan 2: 7
+Pan 3: 6
+
+Tiled, zoomed in:
+
+Pan Avg Load Time: 502.5
+
+Pan Load Times:
+
+Pan 0: 667
+Pan 1: 661
+Pan 2: 675
+Pan 3: 7
+
+Pan Avg Load Time: 6.75
+
+Pan Load Times:
+
+Pan 0: 7
+Pan 1: 6
+Pan 2: 6
+Pan 3: 8
+
+Zoom Avg Load Time: 243.83333333333334
+
+Zoom Load Times:
+
+Zoom 0: 752
+Zoom 1: 692
+Zoom 2: 5
+Zoom 3: 6
+Zoom 4: 4
+Zoom 5: 4
